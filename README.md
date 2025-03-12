@@ -21,6 +21,7 @@ Make sure to keep the commit history. Do not submit the final code without the h
 
 ## Submission Instructions
 - Each group should submit **one final version**.
+- Save individual output graphs in the output folder, but also include one overall PDF file containing all of your code, writeup, and results in the output folder. 
 - Before submission:
   - **Tag a release** (e.g., `final_submission`).
   - Submit the **GitHub repository URL** on BruinLearn > Assignments > Final Project.
