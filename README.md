@@ -16,11 +16,9 @@
 - After creating the repository, that member should add their teammates and myself (TA Grace) as collaborators.
 
 ## Collaboration Guidelines
-To ensure effective collaboration and track contributions:
-- Use **clear commit messages** with descriptions.
-- Open **pull requests (PRs)** for all changes.
-- Use **GitHub Issues** to discuss tasks and track progress.
-- In **PR descriptions**, specify who contributed to each part.
+Members should first coordinate with each other to complete the project using all members' GitHub accounts. 
+Make sure to keep the commit history. Do not submit the final code without the history of git commit.
+Upon finishing the assignment, submit a push request using git. 
 
 ## Submission Instructions
 - Each group should submit **one final version**.
