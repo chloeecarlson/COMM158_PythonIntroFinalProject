@@ -1,1 +1,1 @@
-The output of your code should be in this folder.
+Save individual output (i.e. graphs) in the output folder, but also include one overall PDF file containing all of your code, writeup, and plots (similar to previous homework assignments) in the output folder.
