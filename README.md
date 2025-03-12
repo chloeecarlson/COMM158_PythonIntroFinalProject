@@ -1,7 +1,7 @@
 # Final Project Instructions
 
 ## Group Formation
-- Students should work in **groups of 3**.
+- Students should work in **groups of 2 or 3**.
 - One group member should:
   1. Click the green **"Use this template"** button.
   2. Select **"Create a new repository"**.
