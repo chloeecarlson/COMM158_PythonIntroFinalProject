@@ -19,6 +19,11 @@
 Members should first coordinate with each other to complete the project using all members' GitHub accounts. 
 Make sure to keep the commit history. Do not submit the final code without the history of git commit.
 
+## Python Environment
+Students can choose to work on the project using either local IDEs (e.g. Visual Studio Code, PyCharm, etc) or Google Colab. 
+Regardless of which environment you choose to use, please make sure that all output figures are saved in the output folder, as well as one overall PDF with all your code, plots, and writeup.
+If you choose to use Google Colab, please figure out how to synchronize your notebook with git for version control (Prof Gao will briefly introduce this in lecture). 
+
 ## Submission Instructions
 - Each group should submit **one final version**.
 - Save individual output graphs in the output folder, but also include one overall PDF file containing all of your code, writeup, and results in the output folder. 
